@@ -13,5 +13,3 @@ Advanced chatbot
 ![demo3](https://github.com/softdev1012/riceadvisorystudio/blob/main/demos/demo3.png)
 
 ![demo4](https://github.com/softdev1012/riceadvisorystudio/blob/main/demos/demo4.png)
-
-![demo5](https://github.com/softdev1012/riceadvisorystudio/blob/main/demos/demo5.png)
